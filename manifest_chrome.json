@@ -32,7 +32,8 @@
 		"*://*.amazon.com.au/*",
 		"*://*.amazon.com.br/*",
 		"*://*.amazon.com.mx/*",
-		"*://*.amazon.sg/*"
+		"*://*.amazon.sg/*",
+		"https://chat.googleapis.com/*"
 	],
 	"web_accessible_resources": [
 		{
